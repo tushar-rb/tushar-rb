@@ -1,5 +1,6 @@
-#👨‍💻 About Me
-A final-year student at ITER, Bhubaneswar, specializing in ETL (Extract, Transform, Load) processes. Passionate about data and building robust data pipelines.
+## 👨‍💻 About Me
+A final-year student at ITER, Bhubaneswar, specializing in ETL (Extract, Transform, Load) processes.<br>
+Passionate about data and building robust data pipelines.<br>
 <br>
 <br>
 📍 Located in Bhubaneswar, Odisha
